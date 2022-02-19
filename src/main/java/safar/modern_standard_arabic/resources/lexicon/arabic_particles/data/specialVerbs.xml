@@ -1,0 +1,3945 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<specialVerbs>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>كانَ</voweledForm>
+			<unvoweledForm>كان</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل أجوف</desc>
+			<root>كون</root>
+			<pattern>فَعَلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كان وأخواتها</syntDesc>
+				<syntProp> تدخل على المبتدأ والخبر فترفع الأول فيسمى اسمها وتنصب الثاني فيسمى خبرها</syntProp>
+				<sample>أُو۟لَٰٓئِكَ مَا كَانَ لَهُمْ أَن يَدْخُلُوهَآ إِلَّا خَآئِفِينَ</sample>
+				<ref>البقرة 115</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>كُن</voweledForm>
+				<unvoweledForm> كن</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>كَان</voweledForm>
+				<unvoweledForm>كان</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>كُون</voweledForm>
+				<unvoweledForm>كون</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>كُنّ</voweledForm>
+				<unvoweledForm> كن</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp3-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> كِن</voweledForm>
+				<unvoweledForm> كن</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> كِين</voweledForm>
+				<unvoweledForm>كين</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>كَان</voweledForm>
+				<unvoweledForm>كان</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>كَنّ</voweledForm>
+				<unvoweledForm> كن</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> كُن</voweledForm>
+				<unvoweledForm> كن</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> كُون</voweledForm>
+				<unvoweledForm>كون</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2-2</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>ظَلَّ</voweledForm>
+			<unvoweledForm>ظل</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>صحيح مضعف ثلاثي</desc>
+			<root>ظلل</root>
+			<pattern>فَعَلَ-يَفْعِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كان وأخواتها</syntDesc>
+				<syntProp> تدخل على المبتدأ والخبر فترفع الأول فيسمى اسمها وتنصب الثاني فيسمى خبرها</syntProp>
+				<sample>وَإِذَا بُشِّرَ أَحَدُهُم بِمَا ضَرَبَ لِلرَّحْمَٰنِ مَثَلًا ظَلَّ وَجْهُهُۥ مُسْوَدًّا وَهُوَ كَظِيمٌ</sample>
+				<ref>الزخرف 17</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> ظَلَل</voweledForm>
+				<unvoweledForm> ظلل</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> ظَلّ</voweledForm>
+				<unvoweledForm> ظل</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>ظِلّ</voweledForm>
+				<unvoweledForm>ظل</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>ظْلِلْ</voweledForm>
+				<unvoweledForm>ظلل</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اِظْلِل</voweledForm>
+				<unvoweledForm> اظلل</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> ظِلّ</voweledForm>
+				<unvoweledForm> ظل</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2-2</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>ظَلَّ</voweledForm>
+			<unvoweledForm>ظل</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>صحيح مضعف ثلاثي</desc>
+			<root>ظلل</root>
+			<pattern>فَعَلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كان وأخواتها</syntDesc>
+				<syntProp> تدخل على المبتدأ والخبر فترفع الأول فيسمى اسمها وتنصب الثاني فيسمى خبرها</syntProp>
+				<sample>وَإِذَا بُشِّرَ أَحَدُهُم بِمَا ضَرَبَ لِلرَّحْمَٰنِ مَثَلًا ظَلَّ وَجْهُهُۥ مُسْوَدًّا وَهُوَ كَظِيمٌ</sample>
+				<ref>الزخرف 17</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> ظَلَل</voweledForm>
+				<unvoweledForm> ظلل</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> ظَلّ</voweledForm>
+				<unvoweledForm> ظل</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>ظَلّ</voweledForm>
+				<unvoweledForm>ظل</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>ظْلَلْ</voweledForm>
+				<unvoweledForm>ظلل</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اِظْلَل</voweledForm>
+				<unvoweledForm> اظلل</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> ظَلّ</voweledForm>
+				<unvoweledForm> ظل</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2-2</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>بَاتَ</voweledForm>
+			<unvoweledForm>بات</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل أجوف</desc>
+			<root>بيت</root>
+			<pattern>فَعَلَ-يَفْعِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كان وأخواتها</syntDesc>
+				<syntProp> تدخل على المبتدأ والخبر فترفع الأول فيسمى اسمها وتنصب الثاني فيسمى خبرها</syntProp>
+				<sample>بَاتَ لَيْلِي بِالأَنْعَمَيْنِ طَوِيلاَ أرقبُ النجمَ ساهراً لنْ يزولاَ</sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> بِت</voweledForm>
+				<unvoweledForm> بت</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P4</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> بَات</voweledForm>
+				<unvoweledForm> بات</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>بِيت</voweledForm>
+				<unvoweledForm>بيت</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>بِتْ</voweledForm>
+				<unvoweledForm>بت</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> بُت</voweledForm>
+				<unvoweledForm> بت</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P4</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> بِيت</voweledForm>
+				<unvoweledForm> بيت</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>بَات</voweledForm>
+				<unvoweledForm>بات</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>بَتْ</voweledForm>
+				<unvoweledForm>بت</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> بِت</voweledForm>
+				<unvoweledForm> بت</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> بِيت</voweledForm>
+				<unvoweledForm> بيت</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2-2</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+		<specialVerb>
+		<infinitiveForm>
+			<voweledForm>أَصْبَحَ</voweledForm>
+			<unvoweledForm>أصبح</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>صبح</root>
+			<pattern>أَفْعَلَ-يُفْعِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كان وأخواتها</syntDesc>
+				<syntProp> تدخل على المبتدأ والخبر فترفع الأول فيسمى اسمها وتنصب الثاني فيسمى خبرها</syntProp>
+				<sample>فَأَصْبَحْتُمْ بِنِعْمَتِهِ إِخْوَانًا</sample>
+				<ref>آل عمران 103</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>أَصْبَح</voweledForm>
+				<unvoweledForm>أصبح</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>صْبِح</voweledForm>
+				<unvoweledForm>صبح</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>أُصْبِح</voweledForm>
+				<unvoweledForm>أصبح</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>صْبَح</voweledForm>
+				<unvoweledForm>صبح</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>أَصْبِح</voweledForm>
+				<unvoweledForm>أصبح</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>أضْحَى</voweledForm>
+			<unvoweledForm>أضحى</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل ناقص</desc>
+			<root>ضحو</root>
+			<pattern>أَفْعَلَ-يُفْعِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كان وأخواتها</syntDesc>
+				<syntProp> تدخل على المبتدأ والخبر فترفع الأول فيسمى اسمها وتنصب الثاني فيسمى خبرها</syntProp>
+				<sample>فَسُبْحَانَ اللهِ حِينَ تُمْسُونَ وَحِينَ تُصْبِحُونَ</sample>
+				<ref>الروم 17</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>أضْحَي</voweledForm>
+				<unvoweledForm>أضحي</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>أضْحَ</voweledForm>
+				<unvoweledForm>أضح</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>ضْحِي</voweledForm>
+				<unvoweledForm>ضحي</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp4-1</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm>ضْحِي</voweledForm>
+				<unvoweledForm>ضحي</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp4-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>ضْحُو</voweledForm>
+				<unvoweledForm>ضْحُو</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp4-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>أُضْحِي</voweledForm>
+				<unvoweledForm>أضحي</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P6</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>أُضْحُو</voweledForm>
+				<unvoweledForm>أضحو</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P6-1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>ضْحَى</voweledForm>
+				<unvoweledForm>ضحي</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp5-1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>ضْحَ</voweledForm>
+				<unvoweledForm>ضح</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp5-2</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm>ضْحَ</voweledForm>
+				<unvoweledForm>ضح</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp5-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>أضْح</voweledForm>
+				<unvoweledForm>أضح</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R6</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+"	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>أمْسَى</voweledForm>
+			<unvoweledForm>أمسى</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل ناقص</desc>
+			<root>مسو</root>
+			<pattern>أَفْعَلَ-يُفْعِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كان وأخواتها</syntDesc>
+				<syntProp> تدخل على المبتدأ والخبر فترفع الأول فيسمى اسمها وتنصب الثاني فيسمى خبرها</syntProp>
+				<sample> أمْسَى الفَتى بنُ وُدٍّ ثَاوِياً  بجنوبِ سلعٍ، ثارهُ لمْ ينظرِ</sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>"
+		<Radicals>
+			<Radical>
+				<voweledForm> أمْسَي</voweledForm>
+				<unvoweledForm> أمسي</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> أمْسَ</voweledForm>
+				<unvoweledForm>أمس</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>مْسِي</voweledForm>
+				<unvoweledForm>مسي</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp4-1</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm>مْسِي</voweledForm>
+				<unvoweledForm>مسي</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp4-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>مْسُو</voweledForm>
+				<unvoweledForm>مسو</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp4-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> أُمْسِي</voweledForm>
+				<unvoweledForm> أُمسي</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P6</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>أُمْسُو</voweledForm>
+				<unvoweledForm>أُمسو</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P6-1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>مْسَى</voweledForm>
+				<unvoweledForm>مسى</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp5-1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>مْسَ</voweledForm>
+				<unvoweledForm>مس</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp5-2</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm>مْسَ</voweledForm>
+				<unvoweledForm>مس</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp5-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> أمْس</voweledForm>
+				<unvoweledForm> أمس</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R6</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>صَارَ</voweledForm>
+			<unvoweledForm>صار</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل أجوف</desc>
+			<root>صير</root>
+			<pattern>فَعَلَ-يَفْعِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كان وأخواتها</syntDesc>
+				<syntProp> تدخل على المبتدأ والخبر فترفع الأول فيسمى اسمها وتنصب الثاني فيسمى خبرها</syntProp>
+				<sample>وَلمّا صَارَ وُدّ النّاسِ خِبّاً  جَزَيْتُ على ابْتِسامٍ بابْتِسَامِ </sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> صِر</voweledForm>
+				<unvoweledForm> صر</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> صَار</voweledForm>
+				<unvoweledForm> صار</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>صِير</voweledForm>
+				<unvoweledForm> صير</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>صِرْ</voweledForm>
+				<unvoweledForm>صر</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> صُر</voweledForm>
+				<unvoweledForm> صر</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> صِير</voweledForm>
+				<unvoweledForm> صير</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>صَار</voweledForm>
+				<unvoweledForm>صار</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>صَرْ</voweledForm>
+				<unvoweledForm>صر</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> صِر</voweledForm>
+				<unvoweledForm> صر</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> صِير</voweledForm>
+				<unvoweledForm> صير</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2-2</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>لَيْسَ</voweledForm>
+			<unvoweledForm>ليس</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل أجوف</desc>
+			<root>ليس</root>
+			<pattern>فَعِلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كان وأخواتها</syntDesc>
+				<syntProp> تدخل على المبتدأ والخبر فترفع الأول فيسمى اسمها وتنصب الثاني فيسمى خبرها</syntProp>
+				<sample>أَليسَ اللهُ بأَحْكَمِ الحَاكِمِينَ</sample>
+				<ref>التين 8</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>مَا - زَالَ</voweledForm>
+			<unvoweledForm>مازال</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل أجوف</desc>
+			<root>زول</root>
+			<pattern>فَعَلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كان وأخواتها</syntDesc>
+				<syntProp> تدخل على المبتدأ والخبر فترفع الأول فيسمى اسمها وتنصب الثاني فيسمى خبرها</syntProp>
+				<sample>و صهيل الخيل ما زال ، و تقريعُ السيوفْ و أنا أحملُ شمساً في يميني و أطــوف </sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> زُل</voweledForm>
+				<unvoweledForm> زل</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> زَال</voweledForm>
+				<unvoweledForm> زال</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>زُول</voweledForm>
+				<unvoweledForm>زول</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>زُلْ</voweledForm>
+				<unvoweledForm>زل</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> زِل</voweledForm>
+				<unvoweledForm> زل</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> زِيل</voweledForm>
+				<unvoweledForm> زيل</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>زَال</voweledForm>
+				<unvoweledForm>زال</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>زَلْ</voweledForm>
+				<unvoweledForm>زل</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> زُل</voweledForm>
+				<unvoweledForm> زل</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> زُول</voweledForm>
+				<unvoweledForm> زول</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2-2</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>مَا - بَرِحَ</voweledForm>
+			<unvoweledForm>مابرح</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>برح</root>
+			<pattern>فَعَلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كان وأخواتها</syntDesc>
+				<syntProp> تدخل على المبتدأ والخبر فترفع الأول فيسمى اسمها وتنصب الثاني فيسمى خبرها</syntProp>
+				<sample>مَا بَرِحَ الرّسْمُ الذي بينَ حَنْجَرٍ  وذَلْفَة حَتَّى قِيلَ هَلْ هُوَ نَازِحُ</sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>بَرِحْ</voweledForm>
+				<unvoweledForm>برح</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>بْرَح</voweledForm>
+				<unvoweledForm>برح</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>بُرِح</voweledForm>
+				<unvoweledForm>برح</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>بْرَح</voweledForm>
+				<unvoweledForm>برح</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اِبْرَح</voweledForm>
+				<unvoweledForm> ابرح</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>مَا - فَتِئَ</voweledForm>
+			<unvoweledForm>ما فتئ</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح مهموز</desc>
+			<root>فتء</root>
+			<pattern>فَعِلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كان وأخواتها</syntDesc>
+				<syntProp> تدخل على المبتدأ والخبر فترفع الأول فيسمى اسمها وتنصب الثاني فيسمى خبرها</syntProp>
+				<sample></sample>
+				<ref></ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> فَتِئ</voweledForm>
+				<unvoweledForm> فتئ</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> فَتِئ</voweledForm>
+				<unvoweledForm> فتئ</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>فْتَأ</voweledForm>
+				<unvoweledForm>فتأ</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اِفْتَ</voweledForm>
+				<unvoweledForm>افت</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R4</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>مَا - انْفَكَّ</voweledForm>
+			<unvoweledForm>ما انفك</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>صحيح مضعف ثلاثي</desc>
+			<root>فكك</root>
+			<pattern>انْفَعَلَ-يَنْفَعِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كان وأخواتها</syntDesc>
+				<syntProp> تدخل على المبتدأ والخبر فترفع الأول فيسمى اسمها وتنصب الثاني فيسمى خبرها</syntProp>
+				<sample>ما انفك الفؤاد المعذب  وراء التصابي والصبابات يدأب </sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>انْفَكَك</voweledForm>
+				<unvoweledForm>انفكك</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>انفك</voweledForm>
+				<unvoweledForm></unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>نْفَكّ</voweledForm>
+				<unvoweledForm>نفك</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>نْفَكِكْ</voweledForm>
+				<unvoweledForm>نفكك</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> انفكك</voweledForm>
+				<unvoweledForm></unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اُنْفُكّ</voweledForm>
+				<unvoweledForm>انفك</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>نْفَكّ</voweledForm>
+				<unvoweledForm>نفك</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>نْفَكَكْ</voweledForm>
+				<unvoweledForm>نفكك</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> انْفَكِك</voweledForm>
+				<unvoweledForm> انفكك</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> انْفَكّ</voweledForm>
+				<unvoweledForm> انفك</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2-2</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>مَا - دَامَ</voweledForm>
+			<unvoweledForm>مادام</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل أجوف</desc>
+			<root>دوم</root>
+			<pattern>فَعَلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كان وأخواتها</syntDesc>
+				<syntProp> تدخل على المبتدأ والخبر فترفع الأول فيسمى اسمها وتنصب الثاني فيسمى خبرها</syntProp>
+				<sample>وَأَوْصَانِي بِالصَّلاَةِ وَالزَّكَاةِ مَا دُمْتُ حَيًّا</sample>
+				<ref>مريم 31</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> دُم</voweledForm>
+				<unvoweledForm> دم</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> دَام</voweledForm>
+				<unvoweledForm> دام</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>دُوم</voweledForm>
+				<unvoweledForm>دوم</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>دُمْ</voweledForm>
+				<unvoweledForm>دم</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> دُم</voweledForm>
+				<unvoweledForm> دم</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> دُوم</voweledForm>
+				<unvoweledForm> دوم</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2-2</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>ظَنَّ</voweledForm>
+			<unvoweledForm>ظن</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>صحيح مضعف ثلاثي</desc>
+			<root>ظنن</root>
+			<pattern>فَعَلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال الرجحان)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>وَظَنُّوا أَنْ لاَ مَلْجَأَ مِنَ اللهِ إِلاَّ إِلَيْهِ</sample>
+				<ref>التوبة 118</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> ظَنَن</voweledForm>
+				<unvoweledForm> ظنن</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> ظَنّ</voweledForm>
+				<unvoweledForm> ظن</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>ظُنّ</voweledForm>
+				<unvoweledForm>ظن</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>ظْنُنّ</voweledForm>
+				<unvoweledForm>ظنن</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp3-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> ظُنِن</voweledForm>
+				<unvoweledForm> ظنن</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> ظُنّ</voweledForm>
+				<unvoweledForm> ظن</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>ظَنّ</voweledForm>
+				<unvoweledForm>ظن</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>ظْنَنّ</voweledForm>
+				<unvoweledForm>ظنن</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>P2</preVow>				
+				<conjSuff>Imp3-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اُظْنُن</voweledForm>
+				<unvoweledForm> اظنن</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> ظُنّ</voweledForm>
+				<unvoweledForm>ظن</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2-2</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>حَسِبَ</voweledForm>
+			<unvoweledForm>حسب</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>حسب</root>
+			<pattern>فَعِلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال الرجحان)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>أَمْ حَسِبَ الَّذِينَ يَعْمَلُونَ السَّيِّئَاتِ أَن يَسْبِقُونَا سَاءَ مَا يَحْكُمُونَ</sample>
+				<ref> العنكبوت 4</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>حَسِب</voweledForm>
+				<unvoweledForm>حسب</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>حْسَب</voweledForm>
+				<unvoweledForm>حسب</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>حُسِب</voweledForm>
+				<unvoweledForm>حسب</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>حْسَب</voweledForm>
+				<unvoweledForm>حسب</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اِحْسِب</voweledForm>
+				<unvoweledForm> احسب</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>خَالَ</voweledForm>
+			<unvoweledForm>خال</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل أجوف</desc>
+			<root>خول</root>
+			<pattern>فَعِلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال الرجحان)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>وفي حديث طلحة، قال لعمر: "إِنا لا نَنْبُو في يدك ولا نَخُول عليك".</sample>
+				<ref>حديث طلحة</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>خِل</voweledForm>
+				<unvoweledForm> خل</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> خَال</voweledForm>
+				<unvoweledForm> خال</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>خَال</voweledForm>
+				<unvoweledForm>خال</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>خَل</voweledForm>
+				<unvoweledForm>خل</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>خُيِل</voweledForm>
+				<unvoweledForm>خيل</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> خِيل</voweledForm>
+				<unvoweledForm> خيل</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>خَال</voweledForm>
+				<unvoweledForm>خال</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>خَلْ</voweledForm>
+				<unvoweledForm>خل</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>خِل</voweledForm>
+				<unvoweledForm> خل</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>خِيل</voweledForm>
+				<unvoweledForm>خيل</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2-2</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>زَعَمَ</voweledForm>
+			<unvoweledForm>زعم</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>زعم</root>
+			<pattern>فَعَلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال الرجحان)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>زَعَمَ الَّذِينَ كَفَرُوا أَن لَّن يُبْعَثُوا قُلْ بَلَىٰ وَرَبِّي لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ وَذَٰلِكَ عَلَى اللَّهِ يَسِيرٌ</sample>
+				<ref>  التغابن 7</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>زَعَم</voweledForm>
+				<unvoweledForm>زعم</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>زْعُم</voweledForm>
+				<unvoweledForm>زعم</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>زُعِم</voweledForm>
+				<unvoweledForm>زعم</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>زْعَم</voweledForm>
+				<unvoweledForm>زعم</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>اُزْعُم</voweledForm>
+				<unvoweledForm>ازعم</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>زَعَمَ</voweledForm>
+			<unvoweledForm>زعم</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>زعم</root>
+			<pattern>فَعَلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال الرجحان)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>زَعَمَ الَّذِينَ كَفَرُوا أَن لَّن يُبْعَثُوا قُلْ بَلَىٰ وَرَبِّي لَتُبْعَثُنَّ ثُمَّ لَتُنَبَّؤُنَّ بِمَا عَمِلْتُمْ وَذَٰلِكَ عَلَى اللَّهِ يَسِيرٌ</sample>
+				<ref>  التغابن 7</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>زَعَم</voweledForm>
+				<unvoweledForm>زعم</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>زْعَم</voweledForm>
+				<unvoweledForm>زعم</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>زُعِم</voweledForm>
+				<unvoweledForm>زعم</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>زْعَم</voweledForm>
+				<unvoweledForm>زعم</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>اُزْعَم</voweledForm>
+				<unvoweledForm>ازعم</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>حَجَا</voweledForm>
+			<unvoweledForm>حجا</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل ناقص</desc>
+			<root>حجو</root>
+			<pattern>فَعَلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال الرجحان)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>قال الشّاعر: قَد كُنْتُ أَحْجُو أَبا عَمْرٍو أَخَا ثِقَةٍ حتى ألَمَّتْ بنا يومًا مُلِمَّاتُ</sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> حَجَو</voweledForm>
+				<unvoweledForm> حجو</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> حَجَ</voweledForm>
+				<unvoweledForm> حج</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3-4</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>حْجُو</voweledForm>
+				<unvoweledForm>حجو</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp6</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>حْجَو</voweledForm>
+				<unvoweledForm>حجو</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>
+				<conjSuff>Imp4-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> حُجِي</voweledForm>
+				<unvoweledForm> حجي</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P6</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> حُجُو</voweledForm>
+				<unvoweledForm> حجو</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P6-1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>حْجَى</voweledForm>
+				<unvoweledForm>حجى</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp4-1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>حْجَي</voweledForm>
+				<unvoweledForm>حجي</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp4-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اُحْجُ</voweledForm>
+				<unvoweledForm>احج</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R7</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>عَدَّ</voweledForm>
+			<unvoweledForm>عد</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>صحيح مضعف ثلاثي</desc>
+			<root>عدد</root>
+			<pattern>فَعَلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال الرجحان)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>لَّقَدْ أَحْصَاهُمْ وَعَدَّهُمْ عَدًّا</sample>
+				<ref> مريم 94</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> عَدَد</voweledForm>
+				<unvoweledForm> عدد</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> عَدّ</voweledForm>
+				<unvoweledForm>عد</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>عُدّ</voweledForm>
+				<unvoweledForm>عد</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>عْدُدْ</voweledForm>
+				<unvoweledForm>عدد</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> عُدِد</voweledForm>
+				<unvoweledForm>عدد</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> عُدّ</voweledForm>
+				<unvoweledForm>عد</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>عَدّ</voweledForm>
+				<unvoweledForm>عد</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>عْدَدْ</voweledForm>
+				<unvoweledForm>عدد</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اُعْدُد</voweledForm>
+				<unvoweledForm> اعدد</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> عُدّ</voweledForm>
+				<unvoweledForm>عد</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2-2</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>جَعَلَ</voweledForm>
+			<unvoweledForm>جعل</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>جعل</root>
+			<pattern>فَعَلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال الرجحان و أفعال التحويل أو التصيير )</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>وَجَعَلَ الظُّلُمَاتِ والنُّورَ</sample>
+				<ref>الأنعام 1</ref>
+			</syntClass>
+			<syntClass>
+				<syntDesc> كاد وأخواتها ( أفعال الشروع)</syntDesc>
+				<sample>جعل الخطيب يعظ</sample>
+				<ref></ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>جَعَل</voweledForm>
+				<unvoweledForm>جعل</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>جْعَل</voweledForm>
+				<unvoweledForm>جعل</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>جُعِل</voweledForm>
+				<unvoweledForm>جعل</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>جْعَل</voweledForm>
+				<unvoweledForm>جعل</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>اِجْعَل</voweledForm>
+				<unvoweledForm>اجعل</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>هَبْ</voweledForm>
+			<unvoweledForm>هب</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل مثال</desc>
+			<root>وهب</root>
+			<pattern>فَعَلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال الرجحان)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>رَبِّ هَبْ لِي حُكْمًا وَأَلْحِقْنِي بِالصَّالِحِينَ</sample>
+				<ref> الشعراء 83</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> وَهَب</voweledForm>
+				<unvoweledForm> وهب</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> وَهَب</voweledForm>
+				<unvoweledForm> وهب</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>هَب</voweledForm>
+				<unvoweledForm>هب</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>وُهِب</voweledForm>
+				<unvoweledForm> وهب</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm>وُهِب</voweledForm>
+				<unvoweledForm> وهب</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> وَهَب</voweledForm>
+				<unvoweledForm>هب</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> هَب</voweledForm>
+				<unvoweledForm> هب</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>رَأَى</voweledForm>
+			<unvoweledForm>رأى</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح مهموز</desc>
+			<root>رءي</root>
+			<pattern>فَعَلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال اليقين)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>قال الشاعر: فَضلٌ عَلَيكَ لِذي الجَلالِ وَمِنَّةٌ وَاللَهُ يَفعَلُ ما يَرى وَيَشاءُ.</sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> رَأَي</voweledForm>
+				<unvoweledForm> رأي</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> رَأَ</voweledForm>
+				<unvoweledForm> رأ</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>رَي</voweledForm>
+				<unvoweledForm>ري</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp4-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>رَوْ</voweledForm>
+				<unvoweledForm>رو</unvoweledForm>
+				<tenses>مضارع معلوم + مجهول</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp4-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> رُئِي</voweledForm>
+				<unvoweledForm> رئي</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P6</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> رُئُو</voweledForm>
+				<unvoweledForm> رئو</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P6-1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>رَى</voweledForm>
+				<unvoweledForm>رى</unvoweledForm>
+				<tenses>مضارع معلوم + مجهول</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp4-1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> رَوْ</voweledForm>
+				<unvoweledForm>رو</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<preVow>-</preVow>				
+				<conjSuff>R5-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> رَ</voweledForm>
+				<unvoweledForm> ر</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> رَي</voweledForm>
+				<unvoweledForm> ري</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R5-1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>عَلِمَ</voweledForm>
+			<unvoweledForm>علم</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>علم</root>
+			<pattern>فَعِلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال اليقين)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>قَالَ يَا لَيْتَ قَوْمِي يَعْلَمُونَ. بِمَا غَفَرَ لِي رَبِّي</sample>
+				<ref>يس 25</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>عَلِم</voweledForm>
+				<unvoweledForm>علم</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>عْلَم</voweledForm>
+				<unvoweledForm>علم</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>عُلِم</voweledForm>
+				<unvoweledForm>علم</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>عْلَم</voweledForm>
+				<unvoweledForm>علم</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>اِعْلَم</voweledForm>
+				<unvoweledForm>اعلم</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>دَرَى</voweledForm>
+			<unvoweledForm>درى</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل </desc>
+			<root>دري</root>
+			<pattern>فَعَلَ-يَفْعِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال اليقين)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>قال الشاعر: أَدرى رَسولُ اللَهِ أَنَّ نُفوسَهُم رَكِبَت هَواها وَالقُلوبُ هَواءُ.</sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> دَرَي</voweledForm>
+				<unvoweledForm> دري</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> دَرَ</voweledForm>
+				<unvoweledForm> در</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>دْرُو</voweledForm>
+				<unvoweledForm>درو</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp5-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>دْرِي</voweledForm>
+				<unvoweledForm>دري</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>ُ</preVow>
+				<conjSuff>Imp5-2</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm>دْرِي</voweledForm>
+				<unvoweledForm>دري</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>ُ</preVow>
+				<conjSuff>Imp5-1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> دُرِي</voweledForm>
+				<unvoweledForm> دري</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P6</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> دُرُو</voweledForm>
+				<unvoweledForm> درو</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P6-1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>دْرَي</voweledForm>
+				<unvoweledForm>دري</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp4-1</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm>دْرَي</voweledForm>
+				<unvoweledForm>دري</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp4-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>دْرَو</voweledForm>
+				<unvoweledForm>درو</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp4-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اِدْر</voweledForm>
+				<unvoweledForm> ادر</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R6</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>أَلْفَى</voweledForm>
+			<unvoweledForm>ألفى</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل ناقص</desc>
+			<root>لفو</root>
+			<pattern>أَفْعَلَ-يُفْعِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال اليقين)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>وَأَطْباقُ الثرَى بِالحُرِّ أَحْرَى إِذا أَلْفَى الثراءَ مِنَ الهَوانِ</sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> أَلْفَي</voweledForm>
+				<unvoweledForm> ألفي</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> أَلْفَ</voweledForm>
+				<unvoweledForm> ألف</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>لْفِي</voweledForm>
+				<unvoweledForm>لفي</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp4-1</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm>لْفِي</voweledForm>
+				<unvoweledForm>لفي</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp4-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>لْفُو</voweledForm>
+				<unvoweledForm>لفو</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>ُ</preVow>
+				<conjSuff>Imp4-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> أُلْفِي</voweledForm>
+				<unvoweledForm> ألفي</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P6</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> أُلْفُو</voweledForm>
+				<unvoweledForm> ألفو</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P6-1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>لْفَى</voweledForm>
+				<unvoweledForm>لفى</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp4-1</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm>لْفَى</voweledForm>
+				<unvoweledForm>لفى</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp4-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>لْفَو</voweledForm>
+				<unvoweledForm>لفو</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp4-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> أَلْف</voweledForm>
+				<unvoweledForm> ألف</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R6</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>تَعَلَّمْ</voweledForm>
+			<unvoweledForm>تعلم</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>علم</root>
+			<pattern>تَفَعَّلْ-يَتَفَعَّلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال اليقين)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>قال الشاعر الأبرش : تَعَلَّمْ فليسَ المرءُ يُولَدُ عَالماً </sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>  تَعَلَّم</voweledForm>
+				<unvoweledForm>  تعلم</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>تَعَلَّم</voweledForm>
+				<unvoweledForm>  تعلم</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>تُعُلِّم</voweledForm>
+				<unvoweledForm>  تعلم</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>تَعَلَّم</voweledForm>
+				<unvoweledForm>  تعلم</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>تَعَلَّم</voweledForm>
+				<unvoweledForm>تعلم</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>وَجَدَ</voweledForm>
+			<unvoweledForm>وجد</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل مثال</desc>
+			<root>وجد</root>
+			<pattern>فَعَلَ-يَفْعِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال اليقين)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>يُقال: وَجَدْتُ الحِلْمَ نَافِعاً.</sample>
+				<ref>قول</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> وَجَد</voweledForm>
+				<unvoweledForm> وجد</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> وَجَد</voweledForm>
+				<unvoweledForm> وجد</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>جِد</voweledForm>
+				<unvoweledForm>جد</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>وُجِد</voweledForm>
+				<unvoweledForm>وجد</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm>وُجِد</voweledForm>
+				<unvoweledForm>وجد</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>وجَد</voweledForm>
+				<unvoweledForm>وجد</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>أَوْجِد</voweledForm>
+				<unvoweledForm>أَوجد</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>اتَّخَذَ</voweledForm>
+			<unvoweledForm>اتخذ</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>تخذ</root>
+			<pattern>افْتَعَلَ-يَفْتَعِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال التحويل أو التصيير)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>وَقَالُوا اتَّخَذَ الرَّحْمَٰنُ وَلَدًا</sample>
+				<ref> مريم 88</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>اتَّخَذ</voweledForm>
+				<unvoweledForm>اتخذ</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>تَّخِذ</voweledForm>
+				<unvoweledForm>تخذ</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اُتُّخِذ</voweledForm>
+				<unvoweledForm>تخذ</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>تَّخَذ</voweledForm>
+				<unvoweledForm>تخذ</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>اتَّخِذ</voweledForm>
+				<unvoweledForm>اتخذ</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>صَيَّر</voweledForm>
+			<unvoweledForm>صير</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل أجوف</desc>
+			<root>صير</root>
+			<pattern>فَعَّلَ-يُفَعِّلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال التحويل أو التصيير)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>حَرْفٌ مِنَ الْلَحْنِ صَيَّر رَجُلًا إمَامًا</sample>
+				<ref></ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> صَيَّر</voweledForm>
+				<unvoweledForm> صير</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> صَيَّر</voweledForm>
+				<unvoweledForm> صير</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>صَيِّر</voweledForm>
+				<unvoweledForm>صير</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> صُيِّر</voweledForm>
+				<unvoweledForm> صير</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> صُيِّر</voweledForm>
+				<unvoweledForm> صير</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>صَيَّر</voweledForm>
+				<unvoweledForm>صير</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> صَيِّر</voweledForm>
+				<unvoweledForm> صير</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R3</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> صَيِّر</voweledForm>
+				<unvoweledForm> صير</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2-2</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>رَدَّ</voweledForm>
+			<unvoweledForm>رد</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>صحيح مضعف ثلاثي</desc>
+			<root>ردد</root>
+			<pattern>فَعَلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال التحويل أو التصيير)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>وَدَّ كَثِيرٌ مِنْ أَهْلِ الْكِتَابِ لَوْ يَرُدُّونَكُمْ مِنْ بَعْدِ إِيمَانِكُمْ كُفَّارًا</sample>
+				<ref>البقرة 119</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> رَدَد</voweledForm>
+				<unvoweledForm> ردد</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> رَدّ</voweledForm>
+				<unvoweledForm> رد</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>رُدّ</voweledForm>
+				<unvoweledForm>رد</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>رْدُدْ</voweledForm>
+				<unvoweledForm>ردد</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> رُدِد</voweledForm>
+				<unvoweledForm> ردد</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> رُدّ</voweledForm>
+				<unvoweledForm>رد</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>رَدّ</voweledForm>
+				<unvoweledForm>رد</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>رْدَدْ</voweledForm>
+				<unvoweledForm>ردد</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اُرْدُد</voweledForm>
+				<unvoweledForm> اردد</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> رُدّ</voweledForm>
+				<unvoweledForm>رد</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2-2</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>تَرَكَ</voweledForm>
+			<unvoweledForm>ترك</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>ترك</root>
+			<pattern>فَعَلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال التحويل أو التصيير)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>ذَهَبَ اللّهُ بِنُورِهِمْ وَتَرَكَهُمْ فِي ظُلُمَاتٍ لاَّ يُبْصِرُون</sample>
+				<ref>البقرة 17</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>تَرَك</voweledForm>
+				<unvoweledForm>ترك</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>تْرُك</voweledForm>
+				<unvoweledForm>ترك</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>تُرِك</voweledForm>
+				<unvoweledForm>ترك</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>تْرَك</voweledForm>
+				<unvoweledForm>ترك</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>اُتْرُك</voweledForm>
+				<unvoweledForm>اترك</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>وَهَبَ</voweledForm>
+			<unvoweledForm>وهب</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل مثال</desc>
+			<root>وهب</root>
+			<pattern>فَعَلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال التحويل أو التصيير)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>الْحَمْدُ لِلَّهِ الَّذِي وَهَبَ لِي عَلَى الْكِبَرِ إِسْمَاعِيلَ وَإِسْحَاقَ إِنَّ رَبِّي لَسَمِيعُ الدُّعَاءِ</sample>
+				<ref> إبراهيم 39</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> وَهَب</voweledForm>
+				<unvoweledForm> وهب</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> وَهَب</voweledForm>
+				<unvoweledForm> وهب</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>هَب</voweledForm>
+				<unvoweledForm>هب</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>وُهِب</voweledForm>
+				<unvoweledForm> وهب</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm>وُهِب</voweledForm>
+				<unvoweledForm> وهب</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> وَهَب</voweledForm>
+				<unvoweledForm>هب</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> هَب</voweledForm>
+				<unvoweledForm> هب</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>تَخِذَ</voweledForm>
+			<unvoweledForm>تخذ</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>تخذ</root>
+			<pattern>فَعِلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>ظن وأخواتها (أفعال التحويل أو التصيير)</syntDesc>
+				<syntProp>تَنْصِبُ هَذِهِ الأَفْعالُ الْمُبْتَدَأَ والْخَبَرَ، فَيُسَمَّى الْمُبْتَدَأُ مَفْعُولَها الأوَّلَ ويُسَمَّى الْخَبَرُ مَفْعُولَها الثَّانِي</syntProp>
+				<sample>لَوْ شِئْتَ لَتَخِذْتَ عَلَيْهِ أَجْراً</sample>
+				<ref> الكهف 77 (قراءة مُجَاهِدٌ)</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>تَخِذ</voweledForm>
+				<unvoweledForm>تخذ</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>تْخَذ</voweledForm>
+				<unvoweledForm>تخذ</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>تُخِذ</voweledForm>
+				<unvoweledForm>تخذ</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>تْخَذ</voweledForm>
+				<unvoweledForm>تخذ</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>اِتْخَذ</voweledForm>
+				<unvoweledForm>اتخذ</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>كَادَ</voweledForm>
+			<unvoweledForm>كاد</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل أجوف</desc>
+			<root>كود</root>
+			<pattern>فَعَلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كاد وأخواتها (أفعال المقاربة)</syntDesc>
+				<syntProp>تدخل على الجملة الاسمية فترفع المبتدأ ويسمى اسمها ، وتكون الجملة الفعلية بعدها في محل نصب خبرها.</syntProp>
+				<sample>إِن كَادَ لَيُضِلُّنَا عَنْ آلِهَتِنَا لَوْلَا أَن صَبَرْنَا عَلَيْهَا وَسَوْفَ يَعْلَمُونَ حِينَ يَرَوْنَ الْعَذَابَ مَنْ أَضَلُّ سَبِيلًا</sample>
+				<ref> الفرقان 42</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>كِد</voweledForm>
+				<unvoweledForm> كد</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> كَاد</voweledForm>
+				<unvoweledForm> كاد</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>كَاد</voweledForm>
+				<unvoweledForm> كاد</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>كُدْ</voweledForm>
+				<unvoweledForm>كد</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>كَرَبَ</voweledForm>
+			<unvoweledForm>كرب</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>كرب</root>
+			<pattern>فَعَلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كاد وأخواتها (أفعال المقاربة)</syntDesc>
+				<syntProp>تدخل على الجملة الاسمية فترفع المبتدأ ويسمى اسمها ، وتكون الجملة الفعلية بعدها في محل نصب خبرها.</syntProp>
+				<sample>فإذا اسْتَغْنَى أو كَرَب اسْتَعَفَّ</sample>
+				<ref>حديث </ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> كَرَب</voweledForm>
+				<unvoweledForm> كرب</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> كَرَب</voweledForm>
+				<unvoweledForm> كرب</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>أَوْشَك</voweledForm>
+			<unvoweledForm>أوشك</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل مثال</desc>
+			<root>وشك</root>
+			<pattern>أَفْعَلَ-يُفْعِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كاد وأخواتها (أفعال المقاربة)</syntDesc>
+				<syntProp>تدخل على الجملة الاسمية فترفع المبتدأ ويسمى اسمها ، وتكون الجملة الفعلية بعدها في محل نصب خبرها.</syntProp>
+				<sample>كالمرتعي إلى جانبِ الحِمى ، أوشَك أن يواقِعَه</sample>
+				<ref>حديث </ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> أَوْشَك</voweledForm>
+				<unvoweledForm> أوشك</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> أَوْشَك</voweledForm>
+				<unvoweledForm> أوشك</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>وشِك</voweledForm>
+				<unvoweledForm>وشك</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm>وشِك</voweledForm>
+				<unvoweledForm>وشك</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3-4</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> أُوشِك</voweledForm>
+				<unvoweledForm> أوشك</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> أُوشِك</voweledForm>
+				<unvoweledForm> أوشك</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>وشَك</voweledForm>
+				<unvoweledForm>وشك</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm>وشَك</voweledForm>
+				<unvoweledForm>وشك</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3-5</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>عَسَى</voweledForm>
+			<unvoweledForm>عسى</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل ناقص</desc>
+			<root>عسي</root>
+			<pattern>فَعَلَ-يَفْعِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كاد وأخواتها (أفعال الرجاء)</syntDesc>
+				<syntProp>تدخل على الجملة الاسمية فترفع المبتدأ ويسمى اسمها ، وتكون الجملة الفعلية بعدها في محل نصب خبرها.</syntProp>
+				<sample>لاَ تَقْتُلُوهُ عَسَى أَنْ يَنْفَعَنَا أَوْ نَتَّخِذَهُ وَلَداً</sample>
+				<ref>القصص 9</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> عَسَي</voweledForm>
+				<unvoweledForm> عسي</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> عَسَ</voweledForm>
+				<unvoweledForm>عس</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3-3</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>حَرَى</voweledForm>
+			<unvoweledForm>حرى</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل ناقص</desc>
+			<root>حري</root>
+			<pattern>فَعَلَ-يَفْعِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كاد وأخواتها (أفعال الرجاء)</syntDesc>
+				<syntProp>تدخل على الجملة الاسمية فترفع المبتدأ ويسمى اسمها ، وتكون الجملة الفعلية بعدها في محل نصب خبرها.</syntProp>
+				<sample>حَرَى زيدٌ أن يقومَ</sample>
+				<ref></ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> حَرَى</voweledForm>
+				<unvoweledForm> حرى</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> حَرَ</voweledForm>
+				<unvoweledForm> حر</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>حْرِي</voweledForm>
+				<unvoweledForm>حري</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp4-1</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm>حْرِي</voweledForm>
+				<unvoweledForm>حري</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp4-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>حْرُو</voweledForm>
+				<unvoweledForm>حرو</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp4-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اِحْر</voweledForm>
+				<unvoweledForm> احر</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R6</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>اخْلَوْلَقَ</voweledForm>
+			<unvoweledForm>اخلولق</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>خلق</root>
+			<pattern>افْعَوْعَلَ-يَفْعَوْعِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كاد وأخواتها (أفعال الرجاء)</syntDesc>
+				<syntProp>تدخل على الجملة الاسمية فترفع المبتدأ ويسمى اسمها ، وتكون الجملة الفعلية بعدها في محل نصب خبرها.</syntProp>
+				<sample>اخْلَوْلَقَتِ السَّماءُ أن تُمْطِرَ</sample>
+				<ref></ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>اخْلَوْلَق</voweledForm>
+				<unvoweledForm>اخلولق</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>أَنْشَأَ</voweledForm>
+			<unvoweledForm>أنشأ</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل ناقص</desc>
+			<root>نشء</root>
+			<pattern>أَفْعَلَ-يُفْعِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كاد وأخواتها (أفعال الشروع)</syntDesc>
+				<syntProp>تدخل على الجملة الاسمية فترفع المبتدأ ويسمى اسمها ، وتكون الجملة الفعلية بعدها في محل نصب خبرها.</syntProp>
+				<sample>وَهُوَ الَّذِي أَنْشَأَكُمْ مِنْ نَفْسٍ وَاحِدَةٍ</sample>
+				<ref>الأنعام 98</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> أَنْشَأ</voweledForm>
+				<unvoweledForm> أنشأ</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> أَنْشَأ</voweledForm>
+				<unvoweledForm> أنشأ</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>نْشِئ</voweledForm>
+				<unvoweledForm>نشئ</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> أُنْشِئ</voweledForm>
+				<unvoweledForm> أنشئ</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> أُنْشِئ</voweledForm>
+				<unvoweledForm> أنشئ</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>نْشَأ</voweledForm>
+				<unvoweledForm>نشأ</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> أَنْشِئ</voweledForm>
+				<unvoweledForm> أنشئ</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>طَفِقَ</voweledForm>
+			<unvoweledForm>طفق</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>طفق</root>
+			<pattern>فَعِلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كاد وأخواتها (أفعال الشروع)</syntDesc>
+				<syntProp>تدخل على الجملة الاسمية فترفع المبتدأ ويسمى اسمها ، وتكون الجملة الفعلية بعدها في محل نصب خبرها.</syntProp>
+				<sample>وَطَفِقَا يَخْصِفَانِ عَلَيْهِمَا مِنْ وَرَقِ الجَنَّةِ</sample>
+				<ref>الأعراف 22</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>طَفِق</voweledForm>
+				<unvoweledForm>طفق</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>هَبَّ</voweledForm>
+			<unvoweledForm>هب</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>صحيح مضعف ثلاثي</desc>
+			<root>هبب</root>
+			<pattern>فَعَلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كاد وأخواتها (أفعال الشروع)</syntDesc>
+				<syntProp>تدخل على الجملة الاسمية فترفع المبتدأ ويسمى اسمها ، وتكون الجملة الفعلية بعدها في محل نصب خبرها.</syntProp>
+				<sample>بهاء الدين زهير : هَبَّ النّسيمُ عَليلاً وَهْوَ النّسيمُ الصّحيحُ </sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> هَبَب</voweledForm>
+				<unvoweledForm> هبب</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5 </conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> هَبّ</voweledForm>
+				<unvoweledForm> هب</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>هُبّ</voweledForm>
+				<unvoweledForm>هب</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>هْبُب</voweledForm>
+				<unvoweledForm>هبب</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp3-4</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اُهْبُب</voweledForm>
+				<unvoweledForm> اهبب</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> هُبّ</voweledForm>
+				<unvoweledForm> هب</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2-2</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>عَلِقَ</voweledForm>
+			<unvoweledForm>علق</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>علق</root>
+			<pattern>فَعِلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كاد وأخواتها (أفعال الشروع)</syntDesc>
+				<syntProp>تدخل على الجملة الاسمية فترفع المبتدأ ويسمى اسمها ، وتكون الجملة الفعلية بعدها في محل نصب خبرها.</syntProp>
+				<sample>عَلِقَ النَّوارَ فُؤادُهُ جَهْلا وَصَبَا، فَلَمْ تَتْرُكْ لَهُ عَقْلا </sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>"
+		<Radicals>
+			<Radical>
+				<voweledForm>عَلِق</voweledForm>
+				<unvoweledForm>علق</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>عْلَق</voweledForm>
+				<unvoweledForm>علق</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>عُلِق</voweledForm>
+				<unvoweledForm>علق</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>عْلَق</voweledForm>
+				<unvoweledForm>علق</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>اِعْلَق</voweledForm>
+				<unvoweledForm>اعلق</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>هَلْهَلَ</voweledForm>
+			<unvoweledForm>هلهل</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>صحيح مضعف رباعي</desc>
+			<root>هلهل</root>
+			<pattern>فَعْلَلَ-يُفَعْلِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كاد وأخواتها (أفعال الشروع)</syntDesc>
+				<syntProp>تدخل على الجملة الاسمية فترفع المبتدأ ويسمى اسمها ، وتكون الجملة الفعلية بعدها في محل نصب خبرها.</syntProp>
+				<sample>هَلْهَلَ النَّسَّاجُ الثَّوْبَ</sample>
+				<ref></ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> هَلْهَل</voweledForm>
+				<unvoweledForm> هلهل</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> هَلْهَل</voweledForm>
+				<unvoweledForm> هلهل</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>هَلْهِل</voweledForm>
+				<unvoweledForm>هلهل</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm>هَلْهِل</voweledForm>
+				<unvoweledForm>هلهل</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3-4</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> هَلْهَل</voweledForm>
+				<unvoweledForm> هلهل</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> هَلْهَل</voweledForm>
+				<unvoweledForm> هلهل</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>هَلْهِل</voweledForm>
+				<unvoweledForm>هلهل</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm>هَلْهِل</voweledForm>
+				<unvoweledForm>هلهل</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3-4</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>هَلْهِل</voweledForm>
+				<unvoweledForm>هلهل</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm></voweledForm>
+				<unvoweledForm></unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff></conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>أَخَذَ</voweledForm>
+			<unvoweledForm>أخذ</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح مهموز</desc>
+			<root>ءخذ</root>
+			<pattern>فَعَلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كاد وأخواتها (أفعال الشروع)</syntDesc>
+				<syntProp>تدخل على الجملة الاسمية فترفع المبتدأ ويسمى اسمها ، وتكون الجملة الفعلية بعدها في محل نصب خبرها.</syntProp>
+				<sample>لا تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ</sample>
+				<ref>البقرة 255</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> أَخَذ</voweledForm>
+				<unvoweledForm> أخذ</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> أَخَذ</voweledForm>
+				<unvoweledForm> أخذ</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>أْخُذ</voweledForm>
+				<unvoweledForm>أخذ</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> أُخِذ</voweledForm>
+				<unvoweledForm> أخذ</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> أُخِذ</voweledForm>
+				<unvoweledForm> أخذ</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>ؤْخَذ</voweledForm>
+				<unvoweledForm>ؤخذ</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> خُذ</voweledForm>
+				<unvoweledForm> خذ</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>بَدَأَ</voweledForm>
+			<unvoweledForm>بدأ</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح مهموز</desc>
+			<root>بدأ</root>
+			<pattern>فَعَلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كاد وأخواتها (أفعال الشروع)</syntDesc>
+				<syntProp>تدخل على الجملة الاسمية فترفع المبتدأ ويسمى اسمها ، وتكون الجملة الفعلية بعدها في محل نصب خبرها.</syntProp>
+				<sample>بدأ الإِسلام غريبًا وسيعود غريبًا كما بدأ </sample>
+				<ref>حديث </ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> بَدَأ</voweledForm>
+				<unvoweledForm> بدأ</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> بَدَأ</voweledForm>
+				<unvoweledForm> بدأ</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>بْدَأ</voweledForm>
+				<unvoweledForm>بدأ</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> بُدِئ</voweledForm>
+				<unvoweledForm> بدئ</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> بُدِئ</voweledForm>
+				<unvoweledForm> بدئ</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>بْدَأ</voweledForm>
+				<unvoweledForm>بدأ</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اِبْدَأ</voweledForm>
+				<unvoweledForm> ابدأ</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>ابْتَدَأَ</voweledForm>
+			<unvoweledForm>ابتدأ</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح مهموز</desc>
+			<root>بدء</root>
+			<pattern>افْتَعَلَ-يَفْتَعِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كاد وأخواتها (أفعال الشروع)</syntDesc>
+				<syntProp>تدخل على الجملة الاسمية فترفع المبتدأ ويسمى اسمها ، وتكون الجملة الفعلية بعدها في محل نصب خبرها.</syntProp>
+				<sample>إذا ابتدأ الساقي وثنّى وثلثا،  وجَسّ لنا الشّادونَ مَثنى ومَثلَثَا</sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> ابْتَدَأ</voweledForm>
+				<unvoweledForm> ابتدأ</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> ابْتَدَأ</voweledForm>
+				<unvoweledForm> ابتدأ</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>بْتَدِئُ</voweledForm>
+				<unvoweledForm>بتدئ</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اُبْتُدِئ</voweledForm>
+				<unvoweledForm> اُبْتُدِئ</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm> اُبْتُدِئ</voweledForm>
+				<unvoweledForm> اُبْتُدِئ</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>بْتَدَأُ</voweledForm>
+				<unvoweledForm>بتدأ</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> ابْتَدِئ</voweledForm>
+				<unvoweledForm> ابْتَدِئ</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>قَامَ</voweledForm>
+			<unvoweledForm>قام</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل أجوف</desc>
+			<root>قوم</root>
+			<pattern>فَعَلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كاد وأخواتها (أفعال الشروع)</syntDesc>
+				<syntProp>تدخل على الجملة الاسمية فترفع المبتدأ ويسمى اسمها ، وتكون الجملة الفعلية بعدها في محل نصب خبرها.</syntProp>
+				<sample>قال الراضي بالله: من استشار صروف الدهر قام له على حقيقة طبع الدهر برهان</sample>
+				<ref>قول الراضي بالله</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> قُم</voweledForm>
+				<unvoweledForm> قم</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> قَام</voweledForm>
+				<unvoweledForm> قام</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>قُوم</voweledForm>
+				<unvoweledForm>قوم</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>قُمْ</voweledForm>
+				<unvoweledForm>قم</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> قِم</voweledForm>
+				<unvoweledForm> قم</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> قِيم</voweledForm>
+				<unvoweledForm> قيم</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>قَام</voweledForm>
+				<unvoweledForm>قام</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>قَمْ</voweledForm>
+				<unvoweledForm>قم</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> قُم</voweledForm>
+				<unvoweledForm> قم</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> قُوم</voweledForm>
+				<unvoweledForm> قوم</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2-2</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>انْبَرَى</voweledForm>
+			<unvoweledForm>انبرى</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي معتل ناقص</desc>
+			<root>بري</root>
+			<pattern>انْفَعَلَ-يَنْفَعِلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كاد وأخواتها (أفعال الشروع)</syntDesc>
+				<syntProp>تدخل على الجملة الاسمية فترفع المبتدأ ويسمى اسمها ، وتكون الجملة الفعلية بعدها في محل نصب خبرها.</syntProp>
+				<sample>ويلتاح في حق السماءِ إذا انبرى  نسيمُ الصبا برقٌ يدلُّ على الفنا</sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> انْبَرَي</voweledForm>
+				<unvoweledForm> انبري</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> انْبَرَ</voweledForm>
+				<unvoweledForm>انبر</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>نْبَرِي</voweledForm>
+				<unvoweledForm>نبري</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp4-1</conjSuff>
+			</Radical>
+                        <Radical>
+				<voweledForm>نْبَرِي</voweledForm>
+				<unvoweledForm>نبري</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp4-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>نْبَرُو</voweledForm>
+				<unvoweledForm>نبرو</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp4-3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اُنْبُرِي</voweledForm>
+				<unvoweledForm> انبري</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<conjSuff>P6</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>شَرَعَ</voweledForm>
+			<unvoweledForm>شرع</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>شرع</root>
+			<pattern>فَعَلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>كاد وأخواتها (أفعال الشروع)</syntDesc>
+				<syntProp>تدخل على الجملة الاسمية فترفع المبتدأ ويسمى اسمها ، وتكون الجملة الفعلية بعدها في محل نصب خبرها.</syntProp>
+				<sample>شَرَعَ لَكُمْ مِنَ الدِّينِ مَا وَصَّى بِهِ نُوحاً</sample>
+				<ref>الشورى 13</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>شَرَع</voweledForm>
+				<unvoweledForm>شرع</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>شْرَع</voweledForm>
+				<unvoweledForm>شرع</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>شُرِع</voweledForm>
+				<unvoweledForm>شرع</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>شْرَع</voweledForm>
+				<unvoweledForm>شرع</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>اِشْرَع</voweledForm>
+				<unvoweledForm>اشرع</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>نِعْمَ</voweledForm>
+			<unvoweledForm>نعم</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc></desc>
+			<root>#</root>
+			<pattern>#</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>أفعال المدح</syntDesc>
+				<syntProp>تأخذ فاعلا وبعده اسم مرفوع يعرب مبتدأ مؤخرا وما قبله في محل خبر مقدم.</syntProp>
+				<sample>وَوَهَبْنَا لِدَاوُودَ سُلَيْمَانَ نِعْمَ الْعَبْدُ إِنَّهُ أَوَّابٌ</sample>
+				<ref> ص 30</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>حَبَّ</voweledForm>
+			<unvoweledForm>حب</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>صحيح مضعف ثلاثي</desc>
+			<root>حبب</root>
+			<pattern>فَعَلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>أفعال المدح</syntDesc>
+				<syntProp>تأخذ فاعلا وبعده اسم مرفوع يعرب مبتدأ مؤخرا وما قبله في محل خبر مقدم.</syntProp>
+				<sample>قال المتنبِّي: حَبَبْتُكَ قَلْبي قَبْلَ حُبِّكَ مَنْ نَأَى وقد كَان غَدّاراً فكُنْ أَنْتَ وافِياً</sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> حَبَب</voweledForm>
+				<unvoweledForm> حبب</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> حَبّ</voweledForm>
+				<unvoweledForm> حب</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>حَبّ</voweledForm>
+				<unvoweledForm>حب</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>حْبَب</voweledForm>
+				<unvoweledForm>حبب</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp3-4</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اِحْبَب</voweledForm>
+				<unvoweledForm> احبب</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> حَبّ</voweledForm>
+				<unvoweledForm> حب</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2-2</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>حَبَّ</voweledForm>
+			<unvoweledForm>حب</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>صحيح مضعف ثلاثي</desc>
+			<root>حبب</root>
+			<pattern>فَعَلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>أفعال المدح</syntDesc>
+				<syntProp>تأخذ فاعلا وبعده اسم مرفوع يعرب مبتدأ مؤخرا وما قبله في محل خبر مقدم.</syntProp>
+				<sample></sample>
+				<ref></ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> حَبَب</voweledForm>
+				<unvoweledForm> حبب</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> حَبّ</voweledForm>
+				<unvoweledForm> حب</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P3-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>حِبّ</voweledForm>
+				<unvoweledForm>حب</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>حْبِب</voweledForm>
+				<unvoweledForm>حبب</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>
+				<conjSuff>Imp3-4</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> حُبِب</voweledForm>
+				<unvoweledForm> حبب</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> حُبّ</voweledForm>
+				<unvoweledForm> حب</unvoweledForm>
+				<tenses>ماضي مبني للمجهول</tenses>
+				<conjSuff>P3-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>حَبّ</voweledForm>
+				<unvoweledForm>حب</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>حْبَب</voweledForm>
+				<unvoweledForm>حبب</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp3-4</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> اِحْبِب</voweledForm>
+				<unvoweledForm> احبب</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R3</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> حِبّ</voweledForm>
+				<unvoweledForm> حب</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R2-2</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>حَبَّذَا</voweledForm>
+			<unvoweledForm>حبذا</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc></desc>
+			<root>#</root>
+			<pattern>#</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>أفعال المدح</syntDesc>
+				<syntProp>تأخذ فاعلا وبعده اسم مرفوع يعرب مبتدأ مؤخرا وما قبله في محل خبر مقدم.</syntProp>
+				<sample>أَلاَ يَا حَبَّذَا واللَّـ  ـهِ مَنْ أَهْدَى لِيَ الْعِطْرَا</sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>بٍئْسَ</voweledForm>
+			<unvoweledForm>بئس</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح مهموز</desc>
+			<root>بءس</root>
+			<pattern>فَعِلَ-يَفْعَلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>أفعال الذم</syntDesc>
+				<syntProp>تأخذ فاعلا وبعده اسم مرفوع يعرب مبتدأ مؤخرا وما قبله في محل خبر مقدم.</syntProp>
+				<sample>بِئْسَ الشَّرَابُ وَسَاءَتْ مُرْتَفَقاً</sample>
+				<ref>الكهف 29</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>سَاءَ</voweledForm>
+			<unvoweledForm>ساء</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي مهموز</desc>
+			<root>سوء</root>
+			<pattern>فَعَلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>أفعال الذم</syntDesc>
+				<syntProp>تأخذ فاعلا وبعده اسم مرفوع يعرب مبتدأ مؤخرا وما قبله في محل خبر مقدم.</syntProp>
+				<sample>سَاءَ مَثَلًا الْقَوْمُ الَّذِينَ كَذَّبُوا بِآيَاتِنَا وَأَنفُسَهُمْ كَانُوا يَظْلِمُونَ</sample>
+				<ref> الأعراف 177</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm> سُؤ</voweledForm>
+				<unvoweledForm> سؤ</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> سَاء</voweledForm>
+				<unvoweledForm> ساء</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>سُوء</voweledForm>
+				<unvoweledForm>سوء</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> سِئ</voweledForm>
+				<unvoweledForm> سئ</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P5</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> سِيء</voweledForm>
+				<unvoweledForm> سيء</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P2-2</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>سَاء</voweledForm>
+				<unvoweledForm>ساء</unvoweledForm>
+				<tenses>مضارع مبني للمجهول</tenses>
+				<preVow>ُ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm> سُوء</voweledForm>
+				<unvoweledForm> سوء</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>حَسُنَ</voweledForm>
+			<unvoweledForm>حسن</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>حسن</root>
+			<pattern>فَعُلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>أفعال المدح</syntDesc>
+				<syntProp>تأخذ فاعلا وبعده اسم مرفوع يعرب مبتدأ مؤخرا وما قبله في محل خبر مقدم.</syntProp>
+				<sample>خَالِدِينَ فِيهَا حَسُنَتْ مُسْتَقَرًّا وَمُقَامًا</sample>
+				<ref>الفرقان 76</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>حَسُن</voweledForm>
+				<unvoweledForm>حسن</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>حْسُن</voweledForm>
+				<unvoweledForm>حسن</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>اُحْسُن</voweledForm>
+				<unvoweledForm>احسن</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>ضَعُفَ</voweledForm>
+			<unvoweledForm>ضعف</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>ضعف</root>
+			<pattern>فَعُلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>أفعال الذم</syntDesc>
+				<syntProp>تأخذ فاعلا وبعده اسم مرفوع يعرب مبتدأ مؤخرا وما قبله في محل خبر مقدم.</syntProp>
+				<sample>تَضْعُف صلاةُ الجماعة على صلاة الفرد خمساً وعشرين درجة</sample>
+				<ref>حديث</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>ضَعُف</voweledForm>
+				<unvoweledForm>ضعف</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>ضْعُف</voweledForm>
+				<unvoweledForm>ضعف</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>اُضْعُف</voweledForm>
+				<unvoweledForm>اضعف</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>كَبُرَ</voweledForm>
+			<unvoweledForm>كبر</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>كبر</root>
+			<pattern>فَعُلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>أفعال المدح</syntDesc>
+				<syntProp>تأخذ فاعلا وبعده اسم مرفوع يعرب مبتدأ مؤخرا وما قبله في محل خبر مقدم.</syntProp>
+				<sample>كَبُرَ مَقْتاً عِنْدَ اللهِ أَنْ تَقُولُوا مَا لاَ تَفْعَلُونَ</sample>
+				<ref>الصف 3</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>كَبُر</voweledForm>
+				<unvoweledForm>كبر</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>كْبُر</voweledForm>
+				<unvoweledForm>كبر</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>اُكْبُر</voweledForm>
+				<unvoweledForm>اكبر</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>شَرُفَ</voweledForm>
+			<unvoweledForm>شرف</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>شرف</root>
+			<pattern>فَعُلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>أفعال المدح</syntDesc>
+				<syntProp>تأخذ فاعلا وبعده اسم مرفوع يعرب مبتدأ مؤخرا وما قبله في محل خبر مقدم.</syntProp>
+				<sample>شَرُفَ الوجودُ جميعُه بمحمّدٍ فبِهذا جبريلٌ أتانا يُخبر</sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>شَرُف</voweledForm>
+				<unvoweledForm>شرف</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>شْرُف</voweledForm>
+				<unvoweledForm>شرف</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>اُشْرُف</voweledForm>
+				<unvoweledForm>اشرف</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>قَبُحَ</voweledForm>
+			<unvoweledForm>قبح</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>قبح</root>
+			<pattern>فَعُلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>أفعال الذم</syntDesc>
+				<syntProp>تأخذ فاعلا وبعده اسم مرفوع يعرب مبتدأ مؤخرا وما قبله في محل خبر مقدم.</syntProp>
+				<sample>هَل يَسودُ الفَتى إِذا قَبُحَ الوَج هُ وَأَمسى  قراهُ  غَيرَ  عَتيدِ</sample>
+				<ref>شعر</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>قَبُح</voweledForm>
+				<unvoweledForm>قَبح</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>قْبُح</voweledForm>
+				<unvoweledForm>قَبح</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>اُقْبُح</voweledForm>
+				<unvoweledForm>اقبح</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>خَبُثَ</voweledForm>
+			<unvoweledForm>خبث</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc>ثلاثي صحيح سالم</desc>
+			<root>خبث</root>
+			<pattern>فَعُلَ-يَفْعُلُ</pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>أفعال الذم</syntDesc>
+				<syntProp>تأخذ فاعلا وبعده اسم مرفوع يعرب مبتدأ مؤخرا وما قبله في محل خبر مقدم.</syntProp>
+				<sample>وَالْبَلَدُ الطَّيِّبُ يَخْرُجُ نَبَاتُهُ بِإِذْنِ رَبِّهِ وَالَّذِي خَبُثَ لَا يَخْرُجُ إِلَّا نَكِدًا كَذَٰلِكَ نُصَرِّفُ الْآيَاتِ لِقَوْمٍ يَشْكُرُونَ</sample>
+				<ref> الأعراف 58</ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+			<Radical>
+				<voweledForm>خَبُث</voweledForm>
+				<unvoweledForm>خبث</unvoweledForm>
+				<tenses>ماضي مبني للمعلوم</tenses>
+				<conjSuff>P1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>خْبُث</voweledForm>
+				<unvoweledForm>خبث</unvoweledForm>
+				<tenses>مضارع مبني للمعلوم</tenses>
+				<preVow>َ</preVow>				
+				<conjSuff>Imp1</conjSuff>
+			</Radical>
+			<Radical>
+				<voweledForm>اُخْبُث</voweledForm>
+				<unvoweledForm>اخبث</unvoweledForm>
+				<tenses>الأمر</tenses>
+				<conjSuff>R1</conjSuff>
+			</Radical>
+		</Radicals>
+	</specialVerb>
+
+
+
+
+
+
+
+
+
+
+
+
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>خَلا</voweledForm>
+			<unvoweledForm>خلا</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc></desc>
+			<root></root>
+			<pattern></pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>أفعال الاستثناء</syntDesc>
+				<syntProp>ينصب الاسم المستثنى بشرط أن يسبقه " ما " المصدرية</syntProp>
+				<sample>سافر الحجاج ما خلا قليلا</sample>
+				<ref></ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>عَدا</voweledForm>
+			<unvoweledForm>عدا</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc></desc>
+			<root></root>
+			<pattern></pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>أفعال الاستثناء</syntDesc>
+				<syntProp>ينصب الاسم المستثنى بشرط أن يسبقه " ما " المصدرية</syntProp>
+				<sample>حضر الطلاب ما عدا محمدا</sample>
+				<ref></ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+		</Radicals>
+	</specialVerb>
+	<specialVerb>
+		<infinitiveForm>
+			<voweledForm>حَاشا</voweledForm>
+			<unvoweledForm>حاشا</unvoweledForm>
+		</infinitiveForm>
+		<morphPptes>
+			<desc></desc>
+			<root></root>
+			<pattern></pattern>
+		</morphPptes>
+		<syntClasses>
+			<syntClass>
+				<syntDesc>أفعال الاستثناء</syntDesc>
+				<syntProp>ينصب الاسم المستثنى إذا لم يكن مسبوقا بنفي أو نهي أو استفهام إنكاري</syntProp>
+				<sample>نجح الطلاب حاشا محمدا</sample>
+				<ref></ref>
+			</syntClass>
+		</syntClasses>
+		<Radicals>
+		</Radicals>
+	</specialVerb>
+</specialVerbs>

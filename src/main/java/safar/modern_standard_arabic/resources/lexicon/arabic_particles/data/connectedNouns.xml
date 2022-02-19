@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedNouns>
+<!-- model : 
+	<ConnectedNoun>
+		<Form>
+			<voweledform></voweledform>
+			<unvoweledform></unvoweledform>
+		</Form>
+		<MorphPptes>
+			<Gender></Gender>		 valeurs : المذكر,المؤنث,الكل
+			<Number></Number>		valeurs : المفرد,المثنى,الجمع,المثنى والجمع
+		<MorphPptes>
+		<sample></sample>
+		<ref></ref>
+	</ConnectedNoun>
+end of model-->
+		
+	<ConnectedNoun>
+		<Form>
+			<voweledform>الَّذِي</voweledform>
+			<unvoweledform>الذي</unvoweledform>
+		</Form>
+		<MorphPptes>
+			<Gender>المذكر</Gender> 
+			<Number>المفرد</Number> 
+		</MorphPptes>
+		<Sprop>لا عمل له</Sprop>
+		<sample></sample>
+		<ref></ref>
+	</ConnectedNoun>
+
+	<ConnectedNoun>
+		<Form>
+			<voweledform>الَّتِي</voweledform>
+			<unvoweledform>التي</unvoweledform>
+		</Form>
+		<MorphPptes>
+			<Gender>المؤنث</Gender> 
+			<Number>المفرد</Number> 
+		</MorphPptes>
+		<Sprop>لا عمل له</Sprop>
+		<sample></sample>
+		<ref></ref>
+	</ConnectedNoun>
+
+	<ConnectedNoun>
+		<Form>
+			<voweledform>اللَّذَانِ</voweledform>
+			<unvoweledform>اللذان</unvoweledform>
+		</Form>
+		<MorphPptes>
+			<Gender>المذكر</Gender> 
+			<Number>المثنى</Number> 
+		</MorphPptes>
+		<Sprop>لا عمل له</Sprop>
+		<sample></sample>
+		<ref></ref>
+	</ConnectedNoun>
+
+	<ConnectedNoun>
+		<Form>
+			<voweledform>اللَّتَانِ</voweledform>
+			<unvoweledform>اللتان</unvoweledform>
+		</Form>
+		<MorphPptes>
+			<Gender>المؤنث</Gender> 
+			<Number>المثنى</Number> 
+		</MorphPptes>
+		<Sprop>لا عمل له</Sprop>
+		<sample></sample>
+		<ref></ref>
+	</ConnectedNoun>
+
+	<ConnectedNoun>
+		<Form>
+			<voweledform>اللَّذِينَ</voweledform>
+			<unvoweledform>اللذين</unvoweledform>
+		</Form>
+		<MorphPptes>
+			<Gender>المذكر</Gender> 
+			<Number>الجمع</Number> 
+		</MorphPptes>
+		<Sprop>لا عمل له</Sprop>
+		<sample></sample>
+		<ref></ref>
+	</ConnectedNoun>
+
+	<ConnectedNoun>
+		<Form>
+			<voweledform>اللَّتِينَ</voweledform>
+			<unvoweledform>اللتين</unvoweledform>
+		</Form>
+		<MorphPptes>
+			<Gender>المذكر</Gender> 
+			<Number>الجمع</Number> 
+		</MorphPptes>
+		<Sprop>لا عمل له</Sprop>
+		<sample></sample>
+		<ref></ref>
+	</ConnectedNoun>
+
+	<ConnectedNoun>
+		<Form>
+			<voweledform>الذِّينَ</voweledform>
+			<unvoweledform>الذين</unvoweledform>
+		</Form>
+		<MorphPptes>
+			<Gender>المذكر</Gender> 
+			<Number>الجمع</Number> 
+		</MorphPptes>
+		<Sprop>لا عمل له</Sprop>
+		<sample></sample>
+		<ref></ref>
+	</ConnectedNoun>
+
+	<ConnectedNoun>
+		<Form>
+			<voweledform>الأُلَى</voweledform>
+			<unvoweledform>الألى</unvoweledform>
+		</Form>
+		<MorphPptes>
+			<Gender>المؤنث</Gender> 
+			<Number>الجمع</Number> 
+		</MorphPptes>
+		<Sprop>لا عمل له</Sprop>
+		<sample></sample>
+		<ref></ref>
+	</ConnectedNoun>
+
+	<ConnectedNoun>
+		<Form>
+			<voweledform>اللاَّتِي</voweledform>
+			<unvoweledform>اللاتي</unvoweledform>
+		</Form>
+		<MorphPptes>
+			<Gender>المؤنث</Gender> 
+			<Number>الجمع</Number> 
+		</MorphPptes>
+		<Sprop>لا عمل له</Sprop>
+		<sample></sample>
+		<ref></ref>
+	</ConnectedNoun>
+
+	<ConnectedNoun>
+		<Form>
+			<voweledform>اللاَّئِي</voweledform>
+			<unvoweledform>اللائي</unvoweledform>
+		</Form>
+		<MorphPptes>
+			<Gender>المؤنث</Gender> 
+			<Number>الجمع</Number> 
+		</MorphPptes>
+		<Sprop>لا عمل له</Sprop>
+		<sample></sample>
+		<ref></ref>
+	</ConnectedNoun>
+
+</ConnectedNouns>
