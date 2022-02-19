@@ -13,6 +13,14 @@
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub Packages</name>
+            <url>https://maven.pkg.github.com/alelm-group/safar-maven-trial</url>
+        </repository>
+    </distributionManagement>
+
     <dependencies>
         <dependency>
             <groupId>commons-io</groupId>
