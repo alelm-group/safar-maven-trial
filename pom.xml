@@ -6,7 +6,7 @@
 
     <groupId>org.safar.trial</groupId>
     <artifactId>safar-trial</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
@@ -47,6 +47,20 @@
             <artifactId>weka-stable</artifactId>
             <version>3.6.10</version>
         </dependency>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>4.13.2</version>
+            <scope>test</scope>
+        </dependency>
     </dependencies>
+
+    <build>
+        <resources>
+            <resource>
+                <directory>src/main/java</directory>
+            </resource>
+        </resources>
+    </build>
 
 </project>
