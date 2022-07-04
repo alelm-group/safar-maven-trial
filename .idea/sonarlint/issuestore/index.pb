@@ -169,3 +169,17 @@ Ssrc/main/java/safar/modern_standard_arabic/basic/syntax/posTagger/util/Viterbi.
 bsrc/main/java/safar/modern_standard_arabic/basic/morphology/stemmer/model/WordStemmerAnalysis.java,b/b/bb8fddd8c7ef6c23fb689b53f62b090a5b226947
  
 psrc/main/java/safar/modern_standard_arabic/resources/lexicon/arabic_particles/factory/NativeParticleFactory.java,e/e/ee9894fa3df11304bc5a55bc39134bcaaf31f746
+S
+#.github/workflows/maven-publish.yml,8/5/85f48f2e34e9dcd0e1756f077d1409251f006845
+€
+Psrc/main/java/safar/modern_standard_arabic/basic/syntax/posTagger/util/Data.java,3/7/372f1256e5bb0991affec973b0f2cd07dd54bf3e
+‰
+Ysrc/main/java/safar/modern_standard_arabic/basic/syntax/posTagger/impl/SafarLightPOS.java,f/9/f950de066a5addec96339918bd98f2dc894007fd
+R
+"src/test/java/LevenshteinTest.java,6/7/672857d81727bea255be7d58357e98b00c8cae7e
+Y
+)src/test/java/POSImplementationsTest.java,0/7/07b103de92177c02b2dd5884bca8916bdc52cd7e
+^
+.src/test/java/StemmerImplementationsTests.java,7/7/7746644e7ecee750e9e868193814db4fb00ac431
+P
+ src/test/java/TestStopWords.java,9/b/9bf7abc410bc5bc5ce1c96b915a7ba140f6ba17c
